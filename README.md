@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm VulnPresence</h1>
 <h3 align="center">A passionate of cybersecurity and programming.</h3>
+<h3 align="center">From a young age, I made a deliberate decision to pursue a career in cybersecurity and programming. Over time, I have developed proficiency in several programming languages, including Python, HTML, CSS, PHP, JavaScript, and C++, and I continue to expand and refine my knowledge in these areas. My interest in Linux systems emerged naturally, as they align well with my goals for technical exploration and learning.
+
+Currently, my primary focus is on deepening my expertise in cybersecurity. I am actively engaged in studying and utilizing various cybersecurity tools, developing new tools, exploiting vulnerabilities, conducting research on zero-day vulnerabilities, and applying reverse engineering techniques, among many other areas within this dynamic field. My dedication and passion for continuous learning drive my progress in this ever-evolving industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vulnpresence&label=Profile%20views&color=0e75b6&style=flat" alt="vulnpresence" /> </p>
 
@@ -11,7 +14,6 @@
 
 - ⚡ Fun fact **There is always a vulnerability anywhere...**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
